@@ -1,0 +1,5 @@
+./packer-cache/
+./output-*/
+./output-*/
+.kitchen/
+.kitchen.local.yml
